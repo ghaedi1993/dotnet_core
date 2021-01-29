@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TestConsole": {
+      "commandName": "Project"
+    },
+    "new": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
